@@ -5,7 +5,7 @@ This homework was assigned to me in my Text Analytics class at the University of
 The description of the project can be found in the DOCX file included in the repository.
 
 The edit_distance.py script includes a function that implements the dynamic calculation of the
-"edit distance" between two strings.
+"Edit Distance" between two strings.
 
 Run Instructions
 ----------------
